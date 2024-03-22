@@ -3,10 +3,10 @@
 
 ![](https://github.com/pesarmento/GitGitHub/blob/main/Icone-github.png)
 # Devops
-Aprendendo a utilizar o comando Git junto com o VSCode e Github
+Utilizando o comando Git junto com o VSCode e Github!
 
-Utilizando o terminal de comandos 
-	instalamos o git com o comando : git clone + copiar url do repositório 
+Utilizando o terminal de comandos
+	instalamos o comando Git para utilizar no terminal do VSCode.
 	
 ## Autor: 
 # Pedro Sarmento
